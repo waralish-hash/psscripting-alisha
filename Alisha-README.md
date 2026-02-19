@@ -26,3 +26,17 @@ Here is some **bold text**, some *italic text*, and some **_bold italic text_**.
 ## Code Block Example
 ```powershell
 Write-Host "This is a PowerShell code example."
+
+## Link Example
+Here is a helpful Markdown resource:
+
+[Markdown Guide](https://www.markdownguide.org/)
+## Table Example
+
+| Feature             | Description                   | Example               |
+|---------------------|------------------------------ |-----------------------|
+| **Bold**            | Emphasizes text               | **Important**         |
+| *Italics*           | Soft emphasis                 | *Note*                |
+| Lists               | Ordered or unordered items    | -, 1.                 |
+| Code Block          | Shows formatted code          | ```code```            |
+| Link                | Clickable reference           | [Click Here](#)       |
