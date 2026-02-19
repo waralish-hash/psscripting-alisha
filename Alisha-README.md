@@ -1,8 +1,9 @@
 # My Lab 6 README
 
-This README demonstrates the Markdown skills I learned while completing Lab 6. GitHub is the perfect place to practice Markdown because it renders the formatting instantly, making it easy to see how headings, lists, tables, and code blocks appear in a real development environment. Using GitHub also helps build good habits for version control and documentation, which are essential skills in cybersecurity and IT.
+This README highlights the Markdown skills I practiced while completing Lab 6. GitHub makes it easy to learn Markdown because it instantly shows how headings, lists, tables, and code blocks will look once published. Working in GitHub also helps build strong habits for documentation and version control, which are important skills in cybersecurity and IT.
 
-Overall, working with Markdown in GitHub has been a smooth and useful experience. The syntax is simple, readable, and easy to learn, and GitHub’s preview feature makes it clear how each element will look once published. Creating this README helped me understand how developers organize information and document their work in a clean, professional way.
+Overall, using Markdown in GitHub has been a simple and positive experience. The syntax is easy to understand, the preview feature makes formatting clear, and creating this README helped me see how developers organize information in a clean and professional way.
+
 ## List Example
 
 ### Unordered List
