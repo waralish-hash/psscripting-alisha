@@ -26,3 +26,10 @@ Here is some **bold text**, some *italic text*, and some **_bold italic text_**.
 ## Code Block Example
 ```powershell
 Write-Host "This is a PowerShell code example."
+---
+
+### **Link**
+
+---
+### **Table**
+
